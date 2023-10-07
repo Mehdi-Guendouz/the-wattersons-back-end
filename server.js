@@ -7,7 +7,7 @@ const vehicleRoutes = require('./routes/vehicleRoute');
 const connectDB = require('./configs/DBconfig');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 
 
